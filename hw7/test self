@@ -1,0 +1,19 @@
+1. Generics address the problem of code redundancy and type safety by allowing developers to write a single, type-agnostic version of a class or method that works with any data type.
+
+2. `List<string> stringList = new List<string>();`
+
+3. Two generic type parameters.
+
+4. False
+
+5. `Add`
+
+6. `Remove`, `RemoveAt`
+
+7. By using angle brackets (`<T>`) after the class name.
+
+8. False
+
+9. True
+
+10. True
